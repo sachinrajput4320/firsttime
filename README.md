@@ -1,4 +1,5 @@
 # firsttime
 this is my first git repository
 <br>
-author sachin
+author sachin rajput
+git
